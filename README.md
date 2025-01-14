@@ -38,25 +38,3 @@ You can install all the required libraries using `pip`:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-
-###Dataset
-"https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
-
-##Running the Project
-Clone the repository to your local machine:
-
-git clone https://github.com/your-username/machine-learning-project.git
-Navigate to the project directory:
-
-cd machine-learning-project
-Run the main script:
-
-python machine_learning_project.py
-
-This will:
-
-Load the Titanic dataset
-Preprocess the data
-Train the machine learning models
-Perform the analysis (overfitting/underfitting)
-Display model evaluation results and visualizations
